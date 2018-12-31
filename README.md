@@ -10,5 +10,7 @@ This code needs Adafruit_NeoPixels library
 
 Following boards supported:
 -Atmega328/168 boards(Uno,Pro mini, Nano...)
+
 -Atmega2560 boards
+
 -Teensy boards
