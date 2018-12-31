@@ -1,4 +1,4 @@
-# Goggles-Neopixles
+# Goggles-Neopixels
 Code to control 2x16 neopixels rings with Adafruit library
 Android application Uploaded too, to control Arduino board with
 Bluetooth communication.
